@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Twitter: Leo Antony](https://img.shields.io/twitter/follow/serpico_z?style=social)](https://twitter.com/serpico_z)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=leoantony72&left_color=gray&right_color=blue)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoantony72&show_icons=true)
 
 
