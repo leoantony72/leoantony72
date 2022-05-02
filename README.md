@@ -9,7 +9,6 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoantony72&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoantony72&layout=compact&langs_count=4&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
