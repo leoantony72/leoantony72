@@ -3,7 +3,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/leo-antony-1834a2230/">linkedin</a> • <a href="https://gist.github.com/leoantony72">Gist</a> • <a href="mailto:leoantony102@gmail.com">Email</a> • <a href="https://twitter.com/serpico_z">Twitter</a></p>
 
 <h3 align="center"></h3>
-<p align="center">Hi there! I'm Leo. working on web related stuff with Typescript . Love to learn interesting things and also to meet amazing peopl,also work with databases mainly SQL,architectures and MQ.
+<p align="center">Hi there! I'm Leo 17yr old. working on web related stuff with Typescript and Golang. Love to learn interesting things and also to meet amazing peopl,also work with databases mainly SQL,architectures and MQ.
 
 
 
