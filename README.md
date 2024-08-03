@@ -3,7 +3,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/leo-antony-1834a2230/">linkedin</a> • <a href="https://gist.github.com/leoantony72">Gist</a> • <a href="mailto:leoantony102@gmail.com">Email</a> • <a href="https://twitter.com/serpico_z">Twitter</a></p>
 
 <h3 align="center"></h3>
-<p align="center">Hi, I'm Leo and I am a highly motivated 18-year-old backend developer with a passion for creating efficient and scalable systems. Proficient in Golang and TypeScript, as well as SQL and experience working with MQ, distributed systems, and microservice architecture. Constantly seeking new challenges and opportunities to improve my skills and deliver top-quality solutions.
+<p align="center">Hi, I'm Leo and I am a backend developer with a passion for creating efficient and scalable systems. Proficient in Golang and TypeScript, as well as SQL and experience working with MQ, distributed systems, and microservice architecture. Constantly seeking new challenges and opportunities to improve my skills and deliver top-quality solutions.
 
 
 
